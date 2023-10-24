@@ -178,7 +178,7 @@ body {font-family:'Pretendard','Noto Sans KR', sans-serif; font-size:1.6rem; col
     #certificate .tabList .contTop p {font-size:1.6rem;}
     #certificate .tabList .contMiddle {flex-direction:column; margin-bottom:3.75em;}
     #certificate .tabList .contMiddle > div {width:60%; margin:1.25em auto 1.25em; min-width:330px;}
-    #certificate .tabList .contBottom {flex-direction:column;}
+    #certificate .tabList .contBottom {flex-direction:column;}    
     #certificate .tabList .contBottom:before {display:none;}
     #certificate .tabList .contBottom > div {width:100%; margin:1.25em auto; min-width:330px;}
     #certificate .tabList .contBottom .textItem p {font-size:1.6rem;}
@@ -276,6 +276,7 @@ body {font-family:'Pretendard','Noto Sans KR', sans-serif; font-size:1.6rem; col
     #certificate .tabList .contBottom {flex-direction:column;}
     #certificate .tabList .contBottom:before {display:none;}
     #certificate .tabList .contBottom > div {width:100%; margin:0.625em auto; min-width:240px;}
+    #certificate .tabList .contBottom > .leftBox {width: 100%}
     #certificate .tabList .contBottom .textItem {margin-bottom:1.25em;}
     #certificate .tabList .contBottom .textItem p {font-size:1.4rem;}
     #certificate .tabList .contBottom .textItem .title {font-size:1.5rem;}

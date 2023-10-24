@@ -130,7 +130,7 @@ header .gnb:hover .subMenu {visibility:visible; opacity:1;}
 #certificate .tabList .contMiddle img.authentication {width:90%; min-width:160px}
 #certificate .tabList .contMiddle img.badge {position:relative; top:30px; width:55%; min-width:180px;}
 #certificate .tabList .contBottom {position:relative;  display: flex; justify-content: center;  margin:0 0 5em; }
-#certificate .tabList .contBottom:before {content:''; position:absolute; top:0; left:55%; transform:translateX(-50%); display:block; width:1px; height:100%; background:#e2e2e2}
+/* #certificate .tabList .contBottom:before {content:''; position:absolute; top:0; left:55%; transform:translateX(-50%); display:block; width:1px; height:100%; background:#e2e2e2} */
 #certificate .tabList .contBottom > .leftBox {width: 50%;}
 #certificate .tabList .contBottom .textItem {margin-bottom:1.875em;}
 #certificate .tabList .contBottom .textItem:last-child {margin-bottom:0;}
